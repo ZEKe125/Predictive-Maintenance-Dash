@@ -1,0 +1,15 @@
+/* #dark p {
+	color: rgb(218, 218, 218);
+} */
+
+#dark .alert-danger {
+	color: rgb(233, 233, 233) !important;
+	background-color: rgb(104, 4, 4) !important;
+	border-color: rgb(51, 2, 2) !important;
+}
+
+/* .alert-danger {
+	color: rgb(131, 0, 0) !important;
+	background-color: #ff8894 !important;
+	border-color: rgb(194, 0, 0) !important;
+} */

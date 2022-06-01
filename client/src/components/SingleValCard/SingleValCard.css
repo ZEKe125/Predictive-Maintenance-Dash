@@ -1,0 +1,20 @@
+/* .newcard {
+	min-width: 35% !important;
+	max-width: 50px !important;
+	margin-top: 5%;
+} */
+
+#dark {
+	background-color: rgb(51, 51, 51) !important;
+}
+#dark h1 {
+	color: rgb(255, 255, 255);
+}
+
+#dark .h5 {
+	color: aliceblue;
+}
+
+#dark small {
+	color: aliceblue !important;
+}

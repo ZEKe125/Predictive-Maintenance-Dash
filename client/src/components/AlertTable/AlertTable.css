@@ -1,0 +1,52 @@
+#dark h1 {
+	color: rgb(255, 255, 255);
+}
+#dark h2 {
+	color: rgb(255, 255, 255);
+}
+#dark h3 {
+	color: rgb(255, 255, 255);
+}
+#dark h4 {
+	color: rgb(255, 255, 255);
+}
+#dark h5 {
+	color: rgb(255, 255, 255);
+}
+#dark h6 {
+	color: rgb(255, 255, 255);
+}
+
+#dark .h5 {
+	color: aliceblue;
+}
+
+#dark small {
+	color: aliceblue !important;
+}
+#dark hr {
+	color: aliceblue !important;
+}
+
+#dark label.form-label {
+	color: aliceblue !important;
+}
+
+#dark .form-control {
+	color: aliceblue !important;
+	background-color: rgb(53, 53, 53) !important;
+}
+
+#dark .h4 {
+	color: aliceblue !important;
+}
+
+#dark textarea {
+	color: aliceblue !important;
+	background-color: rgb(53, 53, 53) !important;
+}
+
+#dark .btn-close {
+	color: aliceblue !important;
+	opacity: 1;
+}

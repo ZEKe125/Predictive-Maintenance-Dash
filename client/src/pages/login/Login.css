@@ -1,0 +1,35 @@
+.left .title {
+	font-size: 6ex;
+	font-weight: bolder;
+}
+/* 
+.left {
+	align-items: center;
+	display: flex;
+	margin-left: 5%;
+	margin-right: 10%;
+	margin-bottom: 15%;
+	max-width: 60%;
+	font-family: sans-serif;
+} */
+
+.right {
+	height: 90vh;
+	margin: auto;
+	min-width: 380px;
+	max-width: 35%;
+	/* margin-right: 15%; */
+	margin-top: 5%;
+}
+
+.login {
+	/* background: url(omronlogin.png); */
+	background-image: url(omronlogin.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.loginCard {
+	background-color: whitesmoke;
+	border-color: rgb(205, 205, 205);
+}

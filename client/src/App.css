@@ -1,0 +1,64 @@
+.navbar {
+	background-color: #015fb9 !important;
+	/* position: fixed; */
+}
+
+.navbar#dark {
+	background-color: #002f5c !important;
+	/* position: fixed; */
+}
+
+.navbar-brand {
+	color: white !important;
+	font-weight: normal;
+}
+
+.navbar-toggler {
+	background-color: rgb(226, 232, 240) !important;
+}
+
+#dark .navbar-toggler {
+	background-color: rgb(116, 116, 116) !important;
+}
+
+.navbar-offcanvas-body {
+	background-color: rgb(226 232 240);
+}
+
+.switch {
+	display: flex;
+	justify-content: start;
+	align-items: center;
+	margin-right: auto;
+}
+
+.switch label {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#light .switch label {
+	color: whitesmoke;
+}
+
+#dark .switch label {
+	color: rgb(75, 75, 75);
+}
+
+/* Save for later when using profile picture */
+/* img {
+    max-width: 100%;
+    height: auto;
+} */
+
+#dark .alert-danger {
+	color: rgb(233, 233, 233) !important;
+	background-color: rgb(104, 4, 4) !important;
+	border-color: rgb(51, 2, 2) !important;
+}
+
+.alert-danger {
+	color: #842029 !important;
+	background-color: #fcaeb4 !important;
+	border-color: #842029 !important;
+}

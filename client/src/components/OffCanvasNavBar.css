@@ -1,0 +1,27 @@
+.navbar {
+	background-color: #015fb9 !important;
+	/* position: fixed; */
+}
+
+.navbar#dark {
+	background-color: #002f5c !important;
+	/* position: fixed; */
+}
+
+.navbar-brand {
+	color: white !important;
+	font-weight: normal;
+}
+
+.navbar-toggler {
+	background-color: rgb(226, 232, 240) !important;
+}
+
+.navbar-offcanvas-body {
+	background-color: rgb(226 232 240);
+}
+/* Save for later when using profile picture */
+/* img {
+    max-width: 100%;
+    height: auto;
+} */
